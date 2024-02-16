@@ -1,2 +1,2 @@
-# Resume
-My resume
+# Project
+My project
